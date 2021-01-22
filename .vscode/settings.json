@@ -30,11 +30,13 @@
   "prettier.requireConfig": true,
   "stylelint.enable": true,
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
-  "workbench.colorTheme": "Material Theme",
+  "workbench.colorTheme": "Kimbie Dark",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
   "workbench.view.alwaysShowHeaderActions": true,
   "editor.parameterHints.enabled": false,
   "ponicode.testSettings.testLocation.locationType": "Same folder as source file",
-  "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}"
+  "ponicode.testSettings.testLocation.path": "{rootDir}/{filePath}/{fileName}.test.{ext}",
+  "workbench.preferredHighContrastColorTheme": "Kimbie Dark",
+  "workbench.preferredLightColorTheme": "Kimbie Dark"
 }
