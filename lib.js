@@ -7,5 +7,6 @@ const span = form.querySelector("span");
 export default {
   button: form.querySelector("button"),
   charCountSpan: span.querySelector("span"),
+  span, // short hand for span:span
   textarea: form.querySelector("textarea"),
 };
